@@ -1,0 +1,20 @@
+body {
+   background-color: red;
+}
+
+header {
+   background-color: blue;
+   height: 100px;
+}
+
+nav {
+   background-color: green;
+}
+
+section {
+   background-color: white;
+}
+
+footer {
+   background-color: yellow;
+}
