@@ -1,0 +1,36 @@
+body {
+   background-color: red;
+}
+
+header {
+   background-color: blue;
+   height: 100px;
+}
+
+nav {
+   background-color: green;
+}
+
+section {
+   background-color: white;
+}
+
+footer {
+   background-color: yellow;
+}
+
+ul {
+   list-style-type: none;
+}
+
+li {
+   display: inline;
+   background-color: white;
+   padding: 5px;
+   text-decoration: none;
+}
+li:hover {
+   background-color: black;
+   padding: 5px;
+   text-decoration: underline;
+}
