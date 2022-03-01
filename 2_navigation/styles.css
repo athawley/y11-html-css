@@ -19,17 +19,21 @@ footer {
    background-color: yellow;
 }
 
-ul {
+nav {
+   text-align: center;
+}
+
+nav ul {
    list-style-type: none;
 }
 
-li {
+nav ul li {
    display: inline;
    background-color: white;
    padding: 5px;
    text-decoration: none;
 }
-li:hover {
+nav ul li:hover {
    background-color: black;
    padding: 5px;
    text-decoration: underline;
